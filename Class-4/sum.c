@@ -11,3 +11,5 @@ int main(){
     printf("%d \n",sum);
     return 0;
 }
+
+// long long int (big number print)
